@@ -1,0 +1,1 @@
+# kidoro_app
